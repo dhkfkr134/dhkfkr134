@@ -2,9 +2,9 @@
 <h1>👋 Dream of peace
 <img align="left" src="https://user-images.githubusercontent.com/28720642/178992692-8c04a4ba-51b7-4b27-b310-cd0ac5a8693f.jpg" height="300">
 </h1>
-<p>🌱 I’m currently learning software at Soongsil University</p>
+<p>:star: I’m currently learning software at Soongsil University</p>
 
-<h2> My tech stack </h2>
+<h3>:page_with_curl:My tech stack </h3>
 
 ![html5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=ffffff)
 ![css3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
