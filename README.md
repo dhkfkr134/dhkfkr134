@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jungwon%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&animation=fadeIn&section=header&text=JW%20KIM&desc=development%20story&fontSize=70&fontAlignY=30&rotate=13.5&fontAlign=70&descAlignY=45&descAlign=70&descSize=16)
 <h1>👋 Dream of peace
 <img align="left" src="https://user-images.githubusercontent.com/28720642/178992692-8c04a4ba-51b7-4b27-b310-cd0ac5a8693f.jpg" height="300">
 </h1>
