@@ -5,7 +5,7 @@
 
 <h2> My tech stack </h2>
 
-![html5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&Color=fffffff)
+![html5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=fffffff)
 <!-- ![css3](https://user-images.githubusercontent.com/28720642/178995898-19657016-740f-4ee8-a2ee-a0139dfd4c78.svg)
 ![javascript](https://user-images.githubusercontent.com/28720642/178995946-4aa96285-7be3-42d1-a241-4ff901710694.svg)
 ![typescript](https://user-images.githubusercontent.com/28720642/178995974-62487603-9242-4fd9-973a-5bc83d6f63e0.svg)
