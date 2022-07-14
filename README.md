@@ -1,5 +1,5 @@
 <h1>👋 Dream of peace
-<img src="https://user-images.githubusercontent.com/28720642/178992692-8c04a4ba-51b7-4b27-b310-cd0ac5a8693f.jpg" width="400"/>
+<img src="https://user-images.githubusercontent.com/28720642/178992692-8c04a4ba-51b7-4b27-b310-cd0ac5a8693f.jpg" height="300">
 </h1>
 <p>🌱 I’m currently learning software at Soongsil University</p>
 
