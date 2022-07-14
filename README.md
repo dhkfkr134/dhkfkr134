@@ -21,4 +21,4 @@
 ![notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=ffffff)
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=130&section=footer)
