@@ -3,6 +3,14 @@
 <img align="right" src="https://user-images.githubusercontent.com/28720642/178992692-8c04a4ba-51b7-4b27-b310-cd0ac5a8693f.jpg" height="330">
 </h1>
 <p>:star: I’m currently learning software at Soongsil University</p>
+<h2> My Project
+</h2>
+<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002850941">
+<p>:star: A GPS and BLE-based COVID-19 contact Identification and Electronic Access list Automatic System </p>
+</a>
+<a href="https://github.com/Literacy-Improvement-Project/Literacy-Improvement-Web">
+<p>:star: 아동을 위한 한국어 웹 어플리케이션</p>
+</a>
 
 ## 
 
