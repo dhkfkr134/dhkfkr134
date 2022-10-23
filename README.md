@@ -8,7 +8,7 @@
 <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002850941">
 <p>:star: A GPS and BLE-based COVID-19 contact Identification and Electronic Access list Automatic System </p>
 </a>
-<a href="https://github.com/Literacy-Improvement-Project/Literacy-Improvement-Web">
+<a href="https://github.com/slowStarter-OIDC/Literacy-Improvement-Web">
 <p>:star: 아동을 위한 한국어 웹 어플리케이션</p>
 </a>
 
